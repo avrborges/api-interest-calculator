@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6ab9616.css",
+    "main.js": "/static/js/main.c9853c70.js",
+    "static/js/498.cc7d9332.chunk.js": "/static/js/498.cc7d9332.chunk.js",
+    "static/js/703.42ca307d.chunk.js": "/static/js/703.42ca307d.chunk.js",
+    "static/js/598.d4e816d0.chunk.js": "/static/js/598.d4e816d0.chunk.js",
+    "static/media/Prisma-logo-04.png": "/static/media/Prisma-logo-04.dbb4bf62617b08284e77.png",
+    "index.html": "/index.html",
+    "main.d6ab9616.css.map": "/static/css/main.d6ab9616.css.map",
+    "main.c9853c70.js.map": "/static/js/main.c9853c70.js.map",
+    "498.cc7d9332.chunk.js.map": "/static/js/498.cc7d9332.chunk.js.map",
+    "703.42ca307d.chunk.js.map": "/static/js/703.42ca307d.chunk.js.map",
+    "598.d4e816d0.chunk.js.map": "/static/js/598.d4e816d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ab9616.css",
+    "static/js/main.c9853c70.js"
+  ]
+}
